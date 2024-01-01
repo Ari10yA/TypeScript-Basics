@@ -1,0 +1,12 @@
+//Type Script
+
+Day 1:
+
+1. There is a property called readonly in class
+constructor(private readonly id: string){
+
+}
+It does not allow to manipulate the id property after initialization of the class
+
+
+2. Intersection Types - types can be combined
